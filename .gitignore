@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pycache and logs
+__pycache__/
+*.log
+
+# Other IDE-specific files
+.vscode/
