@@ -10,8 +10,8 @@
 
 ## Papers and Talks
 - **Theodoros Rekatsinas's Lecture (Stanford MLSys Seminar):**
-  - [Lecture: ](https://www.youtube.com/live/_2upFBZsMN4?si=gPN2RWeQZ7BeHhX1).
-  - [Website: ](https://sliu583.gitbook.io/blog/specific-work/seminar-and-talk/mlsys/episode-18).
+  - [Lecture](https://www.youtube.com/live/_2upFBZsMN4?si=gPN2RWeQZ7BeHhX1)
+  - [Website](https://sliu583.gitbook.io/blog/specific-work/seminar-and-talk/mlsys/episode-18)
 
 # Summary of "Software 2.0 for Data Quality" by Theodoros Rekatsinas
 
